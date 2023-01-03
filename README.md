@@ -34,3 +34,11 @@ Bar plots are plots used to compare different items with respect to a dependent 
 Other statistical analysis methods used are mainly mean and maximum values. In various stages of the analysis, mean of kill ratio and win ratio has been taken with respect to different game modes, maps and operators. In other times, the maximum value of kills or wins has been taken with respect to different categories.
 
 ## Results
+* Heat map of attacking operators vs map
+
+![attack_real](https://user-images.githubusercontent.com/115481947/210448609-1d28a17f-be93-4eb4-853f-445e7854389d.png)
+
+* Heat mp of defending operators vs map
+
+![defenD_real](https://user-images.githubusercontent.com/115481947/210448647-1111e4c2-20b0-4e6a-b883-6559c1eac25f.png)
+
