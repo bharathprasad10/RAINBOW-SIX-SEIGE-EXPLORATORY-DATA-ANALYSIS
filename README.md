@@ -33,7 +33,7 @@ For exploratory data analysis, bar plots, lollipop plots and heatmaps are used. 
 Bar plots are plots used to compare different items with respect to a dependent variable. In this project, bar plots are mainly used to compare different operators with respect to a dependent variable, which can be the kill ratio, win ratio or just the number of kills. Lolli pop plots are used to plot kill ratio with respect to different operators. Heatmaps are used in various occasions. It is used to compare maps and operators with respect to kill ratio, or to compare maps and winning reasons with respect to the number of round wins.
 Other statistical analysis methods used are mainly mean and maximum values. In various stages of the analysis, mean of kill ratio and win ratio has been taken with respect to different game modes, maps and operators. In other times, the maximum value of kills or wins has been taken with respect to different categories.
 
-## Results
+## Results - 1
 * Heat map of attacking operators vs map
 
 ![attack_real](https://user-images.githubusercontent.com/115481947/210448609-1d28a17f-be93-4eb4-853f-445e7854389d.png)
@@ -49,3 +49,9 @@ Other statistical analysis methods used are mainly mean and maximum values. In v
 * Top defenders - Bar plot
 
 ![defender_con](https://user-images.githubusercontent.com/115481947/210449071-2f317377-2560-4517-bc36-9504e53b6041.png)
+
+## Results - 2
+
+Best primary weapon and attachments of the operator NAVYSEAL BLACKBEARD
+
+
