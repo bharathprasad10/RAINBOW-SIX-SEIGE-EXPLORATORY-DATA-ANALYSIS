@@ -42,3 +42,10 @@ Other statistical analysis methods used are mainly mean and maximum values. In v
 
 ![defenD_real](https://user-images.githubusercontent.com/115481947/210448647-1111e4c2-20b0-4e6a-b883-6559c1eac25f.png)
 
+* Top attackers - Bar plot
+
+![attackers_con](https://user-images.githubusercontent.com/115481947/210449044-8d7c3e4f-2ab2-47cc-9ab5-492acd9054ce.png)
+
+* Top defenders - Bar plot
+
+![defender_con](https://user-images.githubusercontent.com/115481947/210449071-2f317377-2560-4517-bc36-9504e53b6041.png)
