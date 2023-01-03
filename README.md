@@ -64,8 +64,12 @@ Best primary weapon and attachments of the operator NAVYSEAL BLACKBEARD
 
 * Round winning reasons - BOMB game mode
 
+![bomb_overall](https://user-images.githubusercontent.com/115481947/210450017-619e0276-afb1-4730-8947-69aae73b65b0.png)
 
 * Round winning reasons - HOSTAGE game mode
 
+![overall](https://user-images.githubusercontent.com/115481947/210450042-e31c0079-42b9-49b3-8d52-309d1451b3f7.png)
 
 * Round winning reasons - SECURE AREA game mode
+
+![overall](https://user-images.githubusercontent.com/115481947/210450071-0ccf3af5-b0c6-48f6-80f4-a14a74096b8f.png)
