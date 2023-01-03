@@ -54,4 +54,18 @@ Other statistical analysis methods used are mainly mean and maximum values. In v
 
 Best primary weapon and attachments of the operator NAVYSEAL BLACKBEARD
 
+![NAVYSEAL-BLACKBEARD_1](https://user-images.githubusercontent.com/115481947/210449604-a108edaa-7faf-4982-a32d-bbec5f73c4f4.png)
 
+![NAVYSEAL-BLACKBEARD_2](https://user-images.githubusercontent.com/115481947/210449631-ca7eb09a-e95f-483f-9c14-3795e59a2446.png)
+
+![NAVYSEAL-BLACKBEARD_3](https://user-images.githubusercontent.com/115481947/210449658-42de9191-77a2-4a00-847a-fbc965c0fde3.png)
+
+## Results - 3
+
+* Round winning reasons - BOMB game mode
+
+
+* Round winning reasons - HOSTAGE game mode
+
+
+* Round winning reasons - SECURE AREA game mode
